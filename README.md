@@ -1,5 +1,5 @@
 
-# Hello,I am Sarthik Bhat 
+# Hello, I am Sarthik Bhat 
 I'm a Computer Engineer from Dwarkadas J Sanghvi College of Engineering.
 Currently Working as a Senior Product Engineer at Larsen and Toubro Infotech. I am Well versed with Full Stack Web and App development with demonstrated history of working in internet industry .I'm also proficient in MERN stack, GraphQL, SQL and python. I am an enthusiast and constantly learning new technologies.
 
