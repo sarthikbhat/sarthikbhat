@@ -8,3 +8,12 @@ Currently Working as a Senior Product Engineer at Larsen and Toubro Infotech. I 
 [![](https://img.shields.io/badge/-Sarthik--Bhat-blue?logo=linkedin)](https://www.linkedin.com/in/sarthik-bhat/)
 [![](https://img.shields.io/badge/SB-https%3A%2F%2Fsarthikbhat.github.io-green)](https://sarthikbhat.github.io/)
 [![Gmail Badge](https://img.shields.io/badge/-bhatsarthik28%40gmail.com-red?logo=gmail&logoColor=white)](mailto:bhatsarthik28@gmail.com)
+
+<div>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sarthikbhat&show_icons=true&theme=onedark&include_all_commits=true&hide=stars,issues" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarthikbhat&layout" />
+</a>
+</div>
