@@ -10,15 +10,7 @@ Currently Working as a Senior Product Engineer at Larsen and Toubro Infotech. I 
 [![Gmail Badge](https://img.shields.io/badge/-bhatsarthik28%40gmail.com-red?logo=gmail&logoColor=white)](mailto:bhatsarthik28@gmail.com)
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarthikbhat&show_icons=true&locale=en&layout=compact" alt="sarthikbhat" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarthikbhat&show_icons=true&locale=en&layout=compact&langs_count=7" alt="sarthikbhat" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarthikbhat&show_icons=true&locale=en&include_all_commits=true&hide=issues,stars,contribs&count_private=true&show_icons=true" alt="sarthikbhat" /></p>
 
-<div>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sarthikbhat&show_icons=true&theme=onedark&include_all_commits=true&hide=issues,contribs,stars&count_private=true&show_icons=true" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarthikbhat&layout=compact&langs_count=8" />
-</a>
-</div>
