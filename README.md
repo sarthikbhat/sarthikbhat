@@ -13,7 +13,6 @@ Currently Working as a Senior Product Engineer at Larsen and Toubro Infotech. I 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sarthikbhat&show_icons=true&theme=onedark&include_all_commits=true&hide=issues,contribs,stars&count_private=true&show_icons=true" />
 </a>
-  <span width="20px/>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarthikbhat&layout=compact&langs_count=8" />
 </a>
