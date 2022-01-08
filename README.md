@@ -15,6 +15,6 @@ Currently Working as a Senior Product Engineer at Larsen and Toubro Infotech. I 
 </a>
   <span width="20px/>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarthikbhat&layout&langs_count=8&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarthikbhat&layout=compact&langs_count=8" />
 </a>
 </div>
