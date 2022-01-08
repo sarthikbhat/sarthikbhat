@@ -11,10 +11,10 @@ Currently Working as a Senior Product Engineer at Larsen and Toubro Infotech. I 
 
 <div>
  <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" style="margin-top: 30px;" src="https://github-readme-stats.vercel.app/api?username=sarthikbhat&show_icons=true&locale=en&include_all_commits=true&hide=issues,stars,contribs&count_private=true&show_icons=true&layout=compact&theme=synthwave&hide_rank="true" alt="sarthikbhat" />
+<img align="center" style="margin-top: 30px;" src="https://github-readme-stats.vercel.app/api?username=sarthikbhat&show_icons=true&locale=en&include_all_commits=true&hide=issues,stars,contribs&count_private=true&show_icons=true&layout=compact&theme=synthwave&hide_rank=true" alt="sarthikbhat" />
  </a>
  <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center"  style="margin-top: 30px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarthikbhat&show_icons=true&locale=en&compact=true" alt="sarthikbhat" />
+<img align="center"  style="margin-top: 30px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarthikbhat&show_icons=true&locale=en&layout=compact" alt="sarthikbhat" />
  </a>
 </div>
 
