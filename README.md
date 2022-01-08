@@ -10,12 +10,12 @@ Currently Working as a Senior Product Engineer at Larsen and Toubro Infotech. I 
 [![Gmail Badge](https://img.shields.io/badge/-bhatsarthik28%40gmail.com-red?logo=gmail&logoColor=white)](mailto:bhatsarthik28@gmail.com)
 
 <div>
- <span>
+ <a href="https://github.com/sarthikbhat?tab=repositories">
 <img align="center" style="margin-top: 30px;" src="https://github-readme-stats.vercel.app/api?username=sarthikbhat&show_icons=true&locale=en&include_all_commits=true&hide=issues,stars,contribs&count_private=true&show_icons=true&layout=compact&theme=synthwave&hide_rank=true" alt="sarthikbhat" />
- </span>
- <span">
+ </a>
+ <a href="https://github.com/sarthikbhat?tab=repositories"
 <img align="center"  style="margin-top: 30px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarthikbhat&show_icons=true&locale=en&layout=compact" alt="sarthikbhat" />
- </span>
+ </d>
 </div>
 
 
