@@ -9,8 +9,9 @@ Currently Working as a Senior Product Engineer at Larsen and Toubro Infotech. I 
 [![](https://img.shields.io/badge/SB-https%3A%2F%2Fsarthikbhat.github.io-green)](https://sarthikbhat.github.io/)
 [![Gmail Badge](https://img.shields.io/badge/-bhatsarthik28%40gmail.com-red?logo=gmail&logoColor=white)](mailto:bhatsarthik28@gmail.com)
 
-
+<div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarthikbhat&show_icons=true&locale=en&layout=compact&langs_count=7" alt="sarthikbhat" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarthikbhat&show_icons=true&locale=en&include_all_commits=true&hide=issues,stars,contribs&count_private=true&show_icons=true" alt="sarthikbhat" /></p>
+</div>
 
