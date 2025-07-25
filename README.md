@@ -9,7 +9,7 @@ Currently Working as a Senior Product Engineer at LTIMindtree. I am Well versed 
 [![](https://img.shields.io/badge/SB-https%3A%2F%2Fsarthikbhat.github.io-green)](https://sarthikbhat.github.io/)
 [![Gmail Badge](https://img.shields.io/badge/-bhatsarthik28%40gmail.com-red?logo=gmail&logoColor=white)](mailto:bhatsarthik28@gmail.com)
 
-[![Sarthik's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarthikbhat)](https://github.com/sarthikbhat/github-readme-stats)
+[![Sarthik's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarthikbhat&show_icons=true)](https://github.com/sarthikbhat/github-readme-stats)
 
 
 
